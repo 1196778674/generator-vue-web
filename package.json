@@ -1,12 +1,12 @@
 {
   "name": "generator-lf-vue-web",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "vue-web",
   "homepage": "",
   "author": {
     "name": "liufei",
     "email": "1196778674@qq.com",
-    "url": ""
+    "url": "https://github.com/1196778674/generator-vue-web"
   },
   "files": [
     "generators"
@@ -70,6 +70,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "1196778674/generator-lf-vue-web",
+  "repository": "1196778674/generator-vue-web",
   "private": false
 }
